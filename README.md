@@ -15,7 +15,7 @@ Expositores: Andrés Villa y Juan M. Gutiérrez
 Expositor: Carlos Castro-Iragorri
 * [Diapositivas](https://github.com/rtilb/cursoMayo2024/blob/main/martesRTILB.pdf).
 * [Metricas relevantes](https://github.com/rtilb/cursoMayo2024/blob/main/martesMetricas.xlsx).
-* [Factores de riesgo](https://github.com/rtilb/cursoMayo2024/blob/main/martesFactoresRiesgo.xlsx)).
+* [Factores de riesgo](https://github.com/rtilb/cursoMayo2024/blob/main/martesFactoresRiesgo.xlsx).
 # 3. Miercoles 21 de Mayo: Riesgo de opcionalidad comportamental en el libro bancario
 Expositor: Rafael Serrano
 * [Diapositivas]().
