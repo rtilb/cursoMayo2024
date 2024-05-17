@@ -1,4 +1,4 @@
-!logoCurso.png.jpg
+!(logoCurso.png.jpg)
 
 ## Metodología
 El curso está compuesto por 5 módulos enfocados una aproximación integral a la gestión 
