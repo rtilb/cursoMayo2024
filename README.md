@@ -13,8 +13,9 @@ Expositores: Andrés Villa y Juan M. Gutiérrez
 * [Diapositivas]().
 # 2. Martes 20 de Mayo: La medición del riesgo de tasa de interés y su impacto sobre el libro bancario.
 Expositor: Carlos Castro-Iragorri
-* [Diapositivas]().
-* [Procesos generadores de datos]().
+* [Diapositivas](https://github.com/rtilb/cursoMayo2024/blob/main/martesRTILB.pdf).
+* [Metricas relevantes](https://github.com/rtilb/cursoMayo2024/blob/main/martesMetricas.xlsx).
+* [Factores de riesgo](https://github.com/rtilb/cursoMayo2024/blob/main/martesFactoresRiesgo.xlsx)).
 # 3. Miercoles 21 de Mayo: Riesgo de opcionalidad comportamental en el libro bancario
 Expositor: Rafael Serrano
 * [Diapositivas]().
