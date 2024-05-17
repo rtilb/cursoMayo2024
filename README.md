@@ -1,4 +1,4 @@
-![alt text](logoCurso.jpg)
+![logoCurso](https://github.com/rtilb/cursoMayo2024/blob/main/logoCurso.jpg)
 
 ## Metodología
 El curso está compuesto por 5 módulos enfocados una aproximación integral a la gestión 
