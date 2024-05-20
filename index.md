@@ -10,7 +10,7 @@ computacionales de libre acceso.
 # Contenido
 # 1. Lunes 20 de Mayo: Fundamentos del riesgo de tasa de interés en el libro bancario.
 ## Expositores: Andrés Villa y Juan M. Gutiérrez
-  * [Diapositivas]().
+  * [Diapositivas](https://github.com/rtilb/cursoMayo2024/blob/main/fundamentosRTILB.pdf).
 # 2. Martes 20 de Mayo: La medición del riesgo de tasa de interés y su impacto sobre el libro bancario.
 ## Expositor: Carlos Castro-Iragorri
   * [Diapositivas](https://github.com/rtilb/cursoMayo2024/blob/main/martesRTILB.pdf).
