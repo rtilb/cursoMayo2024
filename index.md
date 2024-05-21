@@ -19,8 +19,7 @@ computacionales de libre acceso.
   * [Entidad Prototipo](https://github.com/rtilb/cursoMayo2024/blob/main/martesEntidadPrototipo.xlsx).
 # 3. Miercoles 21 de Mayo: Riesgo de opcionalidad comportamental en el libro bancario
 ## Expositor: Rafael Serrano
-  * [Diapositivas]().
-  * [excel]().
+  * [Diapositivas](https://github.com/rtilb/cursoMayo2024/blob/main/opcionalidadRTILB.pdf).
 # 4. Jueves 22 de Mayo: Instrumentos de cobertura en el libro bancario
 ## Expositor: Sergio Barrera
   * [Diapositivas]().
