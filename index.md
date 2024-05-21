@@ -17,14 +17,21 @@ computacionales de libre acceso.
   * [Metricas relevantes](https://github.com/rtilb/cursoMayo2024/blob/main/martesMetricas.xlsx).
   * [Factores de riesgo](https://github.com/rtilb/cursoMayo2024/blob/main/martesFactoresRiesgo.xlsx).
   * [Entidad Prototipo](https://github.com/rtilb/cursoMayo2024/blob/main/martesEntidadPrototipo.xlsx).
-# 3. Miercoles 21 de Mayo: Riesgo de opcionalidad comportamental en el libro bancario
+# 3. Martes 20 y Miercoles 21 de Mayo: Riesgo de opcionalidad comportamental en el libro bancario
 ## Expositor: Rafael Serrano
   * [Diapositivas](https://github.com/rtilb/cursoMayo2024/blob/main/opcionalidadRTILB.pdf).
-# 4. Jueves 22 de Mayo: Instrumentos de cobertura en el libro bancario
+# 4. Miercoles 21 y Jueves 22 de Mayo: Instrumentos de cobertura en el libro bancario
 ## Expositor: Sergio Barrera
   * [Diapositivas]().
   * [excel]().
-# 5. Viernes 23 de Mayo: Requerimientos y evolución de la regulación de los riesgos de tasa de interés
-## Expositores: Andrés Villa y Juan M. Gutiérrez
+# 5. Jueves 22 de Mayo: Introducción a contabilidad de coberturas 
+## Expositor: Diego Macias
   * [Diapositivas]().
   * [excel]().
+# 6. Viernes 23 de Mayo: Requerimientos y evolución de la regulación de los riesgos de tasa de interés
+## Expositores: Andrés Villa y Juan M. Gutiérrez
+  * [Diapositivas]().
+# 7. Viernes 23 de Mayo: ....
+## Expositores: ....
+  * [Diapositivas]().
+  
