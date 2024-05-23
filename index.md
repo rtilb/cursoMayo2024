@@ -36,4 +36,6 @@ computacionales de libre acceso.
 # 7. Viernes 23 de Mayo: ....
 ## Expositores: ....
   * [Diapositivas]().
+## Referencias
+  * [Roncalli, T.(2020), Capitulo 7: Asset Liability Management Risk en Handbook of Financial Risk Management, Chapman & Hall/CRC Financial Mathematics Series](http://www.thierry-roncalli.com/download/HFRM-Chap7.pdf).
   
