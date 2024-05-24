@@ -28,7 +28,8 @@ computacionales de libre acceso.
   * [Ejemplos RTILB](https://github.com/rtilb/cursoMayo2024/blob/main/EjemplosRTILBV4.xlsx).
 # 5. Jueves 22 de Mayo: Introducción a contabilidad de coberturas 
 ## Expositor: Diego Macias
-  * [Diapositivas]().
+  * [Diapositivas 1](https://github.com/rtilb/cursoMayo2024/blob/main/ContabilidadCoberturasCRCC.pdf).
+  * [Diapositivas 2](https://github.com/rtilb/cursoMayo2024/blob/main/RequisitosContabilidaddeCoberturaCRCC.pdf).
 # 6. Viernes 23 de Mayo: Requerimientos y evolución de la regulación de los riesgos de tasa de interés
 ## Expositores: Andrés Villa y Juan M. Gutiérrez
   * [Diapositivas](https://github.com/rtilb/cursoMayo2024/blob/main/regulacionRTILB.pptx).
