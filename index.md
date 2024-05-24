@@ -29,13 +29,13 @@ computacionales de libre acceso.
 # 5. Jueves 22 de Mayo: Introducción a contabilidad de coberturas 
 ## Expositor: Diego Macias
   * [Diapositivas]().
-  * [excel]().
 # 6. Viernes 23 de Mayo: Requerimientos y evolución de la regulación de los riesgos de tasa de interés
 ## Expositores: Andrés Villa y Juan M. Gutiérrez
-  * [Diapositivas]().
-# 7. Viernes 23 de Mayo: ....
-## Expositores: ....
+  * [Diapositivas](https://github.com/rtilb/cursoMayo2024/blob/main/regulacionRTILB.pptx).
+# 7. Viernes 23 de Mayo: Simulaci[on de portafolios de SWAPS con SWAMI (herramiento de valoración y riesgo)  
+## Expositores: Nancy Quiceno
   * [Diapositivas]().
 ## Referencias
   * [Roncalli, T.(2020), Capitulo 7: Asset Liability Management Risk en Handbook of Financial Risk Management, Chapman & Hall/CRC Financial Mathematics Series](http://www.thierry-roncalli.com/download/HFRM-Chap7.pdf).
+  * [Castagna, A. (2018), Analysis of the New Standards to Measure and Manage the Interest Rate Risk of the Banking Book Issued by BIS Committee, SSRN](https://ssrn.com/abstract=3167696)
   
