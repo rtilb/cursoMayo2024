@@ -1,8 +1,8 @@
 ![alt text](logoCurso.jpg)
 
 # Metodología
-El curso está compuesto por 5 módulos enfocados una aproximación integral a la gestión 
-del riesgo de tasa de interés del libro bancarios (5 módulos, cada uno de 3 horas). 
+El curso está compuesto por 9 módulos enfocados una aproximación integral a la gestión 
+del riesgo de tasa de interés del libro bancarios (7 sesiones, cada una de 3 horas). 
 Todos los módulos tienen un componente de clase magistral junto con otro componente 
 aplicado donde se hará énfasis en el uso de hojas de cálculo y/o herramientas 
 computacionales de libre acceso.
@@ -33,8 +33,15 @@ computacionales de libre acceso.
 # 6. Viernes 23 de Mayo: Requerimientos y evolución de la regulación de los riesgos de tasa de interés
 ## Expositores: Andrés Villa y Juan M. Gutiérrez
   * [Diapositivas](https://github.com/rtilb/cursoMayo2024/blob/main/regulacionRTILB.pptx).
-# 7. Viernes 23 de Mayo: Simulaci[on de portafolios de SWAPS con SWAMI (herramiento de valoración y riesgo)  
+# 7. Viernes 23 de Mayo: Simulación de portafolios de SWAPS con SWAMI (herramiento de valoración y riesgo)  
 ## Expositores: Nancy Quiceno
+  * [Diapositivas]().
+# 8. Lunes 8 de Julio: Gestión de activos y pasivos en el libro bancario  
+## Expositores: Rafael Serrano y Carlos Castro-Iragorri
+  * [Precios de Transferencia de Fondos (FTP)](https://github.com/rtilb/cursoMayo2024/blob/main/RTILB_FTP.pdf).
+  * [Construcción Curva FTP](https://github.com/rtilb/cursoMayo2024/blob/main/ftpExamples.xlsx).
+# 9. Martes 9 de Julio: Gestión del riesgo en el libro bancario y coberturas contables 
+## Expositores: Diego Macias
   * [Diapositivas]().
 ## Referencias
   * [Roncalli, T.(2020), Capitulo 7: Asset Liability Management Risk en Handbook of Financial Risk Management, Chapman & Hall/CRC Financial Mathematics Series](http://www.thierry-roncalli.com/download/HFRM-Chap7.pdf).
