@@ -42,7 +42,8 @@ computacionales de libre acceso.
   * [Construcción Curva FTP](https://github.com/rtilb/cursoMayo2024/blob/main/ftpExamples.xlsx).
 # 9. Martes 9 de Julio: Gestión del riesgo en el libro bancario y coberturas contables 
 ## Expositores: Diego Macias
-  * [Diapositivas]().
+  * [Contabilidad de Coberturas - Flujo Efectivo y Valor Razonable](https://github.com/rtilb/cursoMayo2024/blob/main/FEyVR.pdf).
+  * [Requisitos Contabilidad de Cobertura](https://github.com/rtilb/cursoMayo2024/blob/main/requisitos.pdf).
 ## Referencias
   * [Roncalli, T.(2020), Capitulo 7: Asset Liability Management Risk en Handbook of Financial Risk Management, Chapman & Hall/CRC Financial Mathematics Series](http://www.thierry-roncalli.com/download/HFRM-Chap7.pdf).
   * [Castagna, A. (2018), Analysis of the New Standards to Measure and Manage the Interest Rate Risk of the Banking Book Issued by BIS Committee, SSRN](https://ssrn.com/abstract=3167696)
