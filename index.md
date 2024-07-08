@@ -36,11 +36,11 @@ computacionales de libre acceso.
 # 7. Viernes 23 de Mayo: Simulación de portafolios de SWAPS con SWAMI (herramiento de valoración y riesgo)  
 ## Expositores: Nancy Quiceno
   * [Diapositivas]().
-# 8. Lunes 8 de Julio: Gestión de activos y pasivos en el libro bancario  
+# 8. Lunes 8 de Julio: Gestión del riesgo en el libro bancario y coberturas contables     
 ## Expositores: Diego Macias
   * [Contabilidad de Coberturas - Flujo Efectivo y Valor Razonable](https://github.com/rtilb/cursoMayo2024/blob/main/FEyVR.pdf).
   * [Requisitos Contabilidad de Cobertura](https://github.com/rtilb/cursoMayo2024/blob/main/requisitos.pdf).
-# 9. Martes 9 de Julio: Gestión del riesgo en el libro bancario y coberturas contables 
+# 9. Martes 9 de Julio: Gestión de activos y pasivos en el libro bancario   
 ## Expositores: Rafael Serrano y Carlos Castro-Iragorri
   * [Precios de Transferencia de Fondos (FTP)](https://github.com/rtilb/cursoMayo2024/blob/main/RTILB_FTP.pdf).
   * [Construcción Curva FTP](https://github.com/rtilb/cursoMayo2024/blob/main/ftpExamples.xlsx).
