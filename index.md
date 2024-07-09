@@ -42,6 +42,8 @@ computacionales de libre acceso.
   * [Requisitos Contabilidad de Cobertura](https://github.com/rtilb/cursoMayo2024/blob/main/requisitos.pdf).
 # 9. Martes 9 de Julio: Gestión de activos y pasivos en el libro bancario   
 ## Expositores: Rafael Serrano y Carlos Castro-Iragorri
+  * [Optimización del Balance utilizando programación lineal](https://github.com/rtilb/cursoMayo2024/blob/main/Optimizacion_balance_banco.pdf).
+  * [Ejemplo optimización del balance ](https://github.com/rtilb/cursoMayo2024/blob/main/Ejemplo_optimizacion_balance.xlsx).
   * [Precios de Transferencia de Fondos (FTP)](https://github.com/rtilb/cursoMayo2024/blob/main/RTILB_FTP.pdf).
   * [Construcción Curva FTP](https://github.com/rtilb/cursoMayo2024/blob/main/ftpExamples.xlsx).
 ## Referencias
