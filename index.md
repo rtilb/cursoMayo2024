@@ -2,7 +2,7 @@
 
 # Metodología
 El curso está compuesto por 9 módulos enfocados una aproximación integral a la gestión 
-del riesgo de tasa de interés del libro bancarios (7 sesiones, cada una de 3 horas). 
+del riesgo de tasa de interés del libro bancarios (9 sesiones, cada una de 3 horas). 
 Todos los módulos tienen un componente de clase magistral junto con otro componente 
 aplicado donde se hará énfasis en el uso de hojas de cálculo y/o herramientas 
 computacionales de libre acceso.
@@ -49,4 +49,5 @@ computacionales de libre acceso.
 ## Referencias
   * [Roncalli, T.(2020), Capitulo 7: Asset Liability Management Risk en Handbook of Financial Risk Management, Chapman & Hall/CRC Financial Mathematics Series](http://www.thierry-roncalli.com/download/HFRM-Chap7.pdf).
   * [Castagna, A. (2018), Analysis of the New Standards to Measure and Manage the Interest Rate Risk of the Banking Book Issued by BIS Committee, SSRN](https://ssrn.com/abstract=3167696)
+  * [Castagna, A. y Fede, F. (2013). Measuring and Managing Liquidity Risk, Wiley Finance Series](https://www.wiley.com/en-us/Measuring+and+Managing+Liquidity+Risk-p-9781119990246)
   
